@@ -1,1 +1,1 @@
-This is simply a test repo to learn about git.
+This is simply a test repo for me to learn about git.
