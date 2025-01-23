@@ -7,5 +7,4 @@ def main():
         x = 2.0 * x * 1-x
         print(x)
 main()
-# Using 2.0 as input just makes the numbers repeat for all iterations,
-# Instead of diverging in value.
+# Using 2.0 as input just makes the numbers repeat for all iterations, instead of diverging in value.
